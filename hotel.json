@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "name": "Taj Hotel & Convention Centre",
+    "city": "agra",
+    "imageUrl": "https://yourusername.github.io/booknest-images/taj_hotel.jpg",
+    "rating": 4.8,
+    "priceMin": 3500,
+    "priceMax": 8000,
+    "isSoldOut": false,
+    "description": "Luxury 5-star hotel with world-class amenities",
+    "amenities": ["Gym", "Pool", "Restaurant", "Parking", "WiFi", "Spa"],
+    "propertyRules": ["No smoking inside rooms", "Check-in: 2 PM", "Check-out: 12 PM", "Pets not allowed"],
+    "rooms": [
+      {
+        "id": "r1",
+        "type": "Deluxe Room",
+        "price": 3500,
+        "imageUrl": "https://yourusername.github.io/booknest-images/deluxe_room.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r2",
+        "type": "Suite",
+        "price": 6000,
+        "imageUrl": "https://yourusername.github.io/booknest-images/suite.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r3",
+        "type": "Presidential Suite",
+        "price": 8000,
+        "imageUrl": "https://yourusername.github.io/booknest-images/presidential.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "The Oberoi Amarvilas",
+    "city": "agra",
+    "imageUrl": "https://yourusername.github.io/booknest-images/oberoi.jpg",
+    "rating": 4.9,
+    "priceMin": 5000,
+    "priceMax": 12000,
+    "isSoldOut": false,
+    "description": "Experience unparalleled luxury with Taj Mahal views",
+    "amenities": ["Pool", "Spa", "Restaurant", "Bar", "WiFi", "Butler Service"],
+    "propertyRules": ["No parties allowed", "Quiet hours after 10 PM", "ID required"],
+    "rooms": [
+      {
+        "id": "r4",
+        "type": "Classic Room",
+        "price": 5000,
+        "imageUrl": "https://yourusername.github.io/booknest-images/classic_room.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r5",
+        "type": "Premier Room",
+        "price": 8000,
+        "imageUrl": "https://yourusername.github.io/booknest-images/premier_room.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r6",
+        "type": "Royal Suite",
+        "price": 12000,
+        "imageUrl": "https://yourusername.github.io/booknest-images/royal_suite.jpg",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Crystal Sarovar Premiere",
+    "city": "agra",
+    "imageUrl": "https://yourusername.github.io/booknest-images/crystal_hotel.jpg",
+    "rating": 4.2,
+    "priceMin": 2000,
+    "priceMax": 4500,
+    "isSoldOut": false,
+    "description": "Modern hotel perfect for business travelers",
+    "amenities": ["Restaurant", "WiFi", "Parking", "Room Service", "Gym"],
+    "propertyRules": ["No smoking", "Check-in: 3 PM", "Check-out: 11 AM"],
+    "rooms": [
+      {
+        "id": "r7",
+        "type": "Standard Room",
+        "price": 2000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r8",
+        "type": "Deluxe Room",
+        "price": 3200,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r9",
+        "type": "Suite",
+        "price": 4500,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Budget Stay Inn",
+    "city": "agra",
+    "imageUrl": "",
+    "rating": 3.5,
+    "priceMin": 800,
+    "priceMax": 1500,
+    "isSoldOut": true,
+    "description": "Affordable accommodation",
+    "amenities": ["WiFi", "Parking"],
+    "propertyRules": ["No smoking", "Check-out: 10 AM"],
+    "rooms": []
+  },
+  {
+    "id": "5",
+    "name": "The Leela Palace",
+    "city": "bengaluru",
+    "imageUrl": "",
+    "rating": 4.9,
+    "priceMin": 6000,
+    "priceMax": 15000,
+    "isSoldOut": false,
+    "description": "Royal luxury inspired by Mysore Palace",
+    "amenities": ["Pool", "Spa", "Gym", "Restaurant", "Bar", "Concierge"],
+    "propertyRules": ["Formal dress for restaurants", "No smoking"],
+    "rooms": [
+      {
+        "id": "r10",
+        "type": "Grand Deluxe",
+        "price": 6000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r11",
+        "type": "Royal Suite",
+        "price": 10000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Taj Mahal Palace",
+    "city": "mumbai",
+    "imageUrl": "",
+    "rating": 4.9,
+    "priceMin": 8000,
+    "priceMax": 20000,
+    "isSoldOut": false,
+    "description": "Iconic landmark overlooking Arabian Sea",
+    "amenities": ["Pool", "Spa", "Multiple Restaurants", "Heritage Tours"],
+    "propertyRules": ["Formal attire required", "Check-in: 2 PM"],
+    "rooms": [
+      {
+        "id": "r12",
+        "type": "Sea View Room",
+        "price": 8000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r13",
+        "type": "Grand Suite",
+        "price": 15000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "The Imperial",
+    "city": "delhi",
+    "imageUrl": "",
+    "rating": 4.8,
+    "priceMin": 7000,
+    "priceMax": 18000,
+    "isSoldOut": false,
+    "description": "Heritage hotel with colonial charm",
+    "amenities": ["Pool", "Spa", "Restaurant", "Art Gallery"],
+    "propertyRules": ["No smoking indoors", "Check-in: 2 PM"],
+    "rooms": [
+      {
+        "id": "r14",
+        "type": "Superior Room",
+        "price": 7000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      },
+      {
+        "id": "r15",
+        "type": "Imperial Suite",
+        "price": 18000,
+        "imageUrl": "",
+        "isAvailable": true,
+        "isSelected": false
+      }
+    ]
+  }
+]
