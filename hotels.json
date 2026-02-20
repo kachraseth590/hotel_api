@@ -16,7 +16,7 @@
         "id": "r1",
         "type": "Deluxe Room",
         "price": 3500,
-        "imageUrl": "https://yourusername.github.io/booknest-images/deluxe_room.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoomjpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -24,7 +24,7 @@
         "id": "r2",
         "type": "Suite",
         "price": 6000,
-        "imageUrl": "https://yourusername.github.io/booknest-images/suite.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/suiteroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -32,7 +32,7 @@
         "id": "r3",
         "type": "Presidential Suite",
         "price": 8000,
-        "imageUrl": "https://yourusername.github.io/booknest-images/presidential.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/suitepresedentialroom.jpg",
         "isAvailable": true,
         "isSelected": false
       }
@@ -55,7 +55,7 @@
         "id": "r4",
         "type": "Classic Room",
         "price": 5000,
-        "imageUrl": "https://yourusername.github.io/booknest-images/classic_room.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/classicalroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -63,7 +63,7 @@
         "id": "r5",
         "type": "Premier Room",
         "price": 8000,
-        "imageUrl": "https://yourusername.github.io/booknest-images/premier_room.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/premierroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -71,7 +71,7 @@
         "id": "r6",
         "type": "Royal Suite",
         "price": 12000,
-        "imageUrl": "https://yourusername.github.io/booknest-images/royal_suite.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/royalsuite.jpg",
         "isAvailable": true,
         "isSelected": false
       }
@@ -94,7 +94,7 @@
         "id": "r7",
         "type": "Standard Room",
         "price": 2000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/Standardroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -102,7 +102,7 @@
         "id": "r8",
         "type": "Deluxe Room",
         "price": 3200,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoomjpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -110,7 +110,7 @@
         "id": "r9",
         "type": "Suite",
         "price": 4500,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/suiteroom.jpg",
         "isAvailable": true,
         "isSelected": false
       }
@@ -147,7 +147,7 @@
         "id": "r10",
         "type": "Grand Deluxe",
         "price": 6000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/granddelux.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -155,7 +155,7 @@
         "id": "r11",
         "type": "Royal Suite",
         "price": 10000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/royalsuite.jpg",
         "isAvailable": true,
         "isSelected": false
       }
@@ -178,7 +178,7 @@
         "id": "r12",
         "type": "Sea View Room",
         "price": 8000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/seaviewroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -186,7 +186,7 @@
         "id": "r13",
         "type": "Grand Suite",
         "price": 15000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/granddelux.jpg",
         "isAvailable": true,
         "isSelected": false
       }
@@ -209,7 +209,7 @@
         "id": "r14",
         "type": "Superior Room",
         "price": 7000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/superiorroom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -217,7 +217,7 @@
         "id": "r15",
         "type": "Imperial Suite",
         "price": 18000,
-        "imageUrl": "",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/imperialroom.jpg",
         "isAvailable": true,
         "isSelected": false
       }
