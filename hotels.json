@@ -32,7 +32,7 @@
         "id": "r3",
         "type": "Presidential Suite",
         "price": 8000,
-        "imageUrl": "https://kachraseth590.github.io/hotel_api/suitepresedentialroom.jpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/suitepresedentialroom.jpeg",
         "isAvailable": true,
         "isSelected": false
       }
