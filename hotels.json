@@ -16,7 +16,7 @@
         "id": "r1",
         "type": "Deluxe Room",
         "price": 3500,
-        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoomjpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
@@ -102,7 +102,7 @@
         "id": "r8",
         "type": "Deluxe Room",
         "price": 3200,
-        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoomjpg",
+        "imageUrl": "https://kachraseth590.github.io/hotel_api/DeluxeRoom.jpg",
         "isAvailable": true,
         "isSelected": false
       },
